@@ -17,4 +17,5 @@ print(args)
 image = cv2.imread(args["image"])  # to read images
 cv2.imshow("Image", image)  # to display images
 cv2.waitKey(0)
+
 cv2.imwrite("newimage.jpg", image)  # to write into new images
