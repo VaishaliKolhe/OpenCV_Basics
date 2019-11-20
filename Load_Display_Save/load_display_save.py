@@ -1,7 +1,7 @@
 
 ##############################################################
 
-#USAGE : python load_display_save.py -i [Path to the image]
+# USAGE : python load_display_save.py -i [Path to the image]
   
 ###############################################################
 
