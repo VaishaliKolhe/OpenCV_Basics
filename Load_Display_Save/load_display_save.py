@@ -1,3 +1,10 @@
+
+##############################################################
+
+USAGE : python load_display_save.py -i [Path to the image]
+  
+###############################################################
+
 import cv2  # Importing computer vision library
 import argparse   # used for command line arguments
 
